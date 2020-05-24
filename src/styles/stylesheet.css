@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+  font-weight: 100;
+  margin: 2rem 0;
+  letter-spacing: -1px;
+}
+
+.btn-primary {
+  background: #757474 !important;
+  color: white !important;
+}
+
+.btn-default {
+  background: #f8f8f8 !important;
+  color: #8594a4 !important;
+}
+
+/* html {
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+
+
+.car-walls-container {
+  border: solid black 5px;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.car-container {
+  border: solid red 4px;
+  margin: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.car-container .car {
+  align-self: center;
+  margin: 0 30px 0 0;
+  font-size: 14px;
+}
+
+button {
+  font-family: sans-serif;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.book-button {
+  background: #757474;
+}
+
+.details-button {
+  background: #f8f8f8;
+  color: #8594a4;
+}
+
+@font-face {
+  font-family: 'billabongregular';
+  src: url('https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.woff')
+    format('woff');
+} */
